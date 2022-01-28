@@ -347,6 +347,11 @@ hash = "f66301a97afd274fc3b0f76487d0cdf4115bc1400e42f1ce50fdca1955f8d24f"
 metafile = true
 
 [[files]]
+file = "mods/notenoughids.toml"
+hash = "28a9a73c5fbf28888895e963914186322b0a96ebc069a2b368e914959c50e1e9"
+metafile = true
+
+[[files]]
 file = "mods/openblocks.toml"
 hash = "5bca8e055edc0d0db33098fff9aca0693f565b01126cdfaee56f9379f143925a"
 metafile = true
