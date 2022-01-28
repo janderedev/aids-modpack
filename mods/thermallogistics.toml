@@ -1,0 +1,13 @@
+name = "ThermalLogistics"
+filename = "thermallogistics-0.3-43.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3379/693/thermallogistics-0.3-43.jar"
+hash-format = "murmur2"
+hash = "3326153660"
+
+[update]
+[update.curseforge]
+file-id = 3379693
+project-id = 313298

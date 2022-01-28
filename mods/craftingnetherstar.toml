@@ -1,0 +1,13 @@
+name = "CraftingNetherStar"
+filename = "CraftingNetherStar 1.12.1 -1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2491/542/CraftingNetherStar 1.12.1 -1.1.jar"
+hash-format = "murmur2"
+hash = "1765657452"
+
+[update]
+[update.curseforge]
+file-id = 2491542
+project-id = 279172

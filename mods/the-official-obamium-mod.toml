@@ -1,0 +1,13 @@
+name = "The Official Obamium Mod"
+filename = "ObamiumMod-1.12.2-0.0.1.0005.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3346/793/ObamiumMod-1.12.2-0.0.1.0005.jar"
+hash-format = "murmur2"
+hash = "1836780487"
+
+[update]
+[update.curseforge]
+file-id = 3346793
+project-id = 395027

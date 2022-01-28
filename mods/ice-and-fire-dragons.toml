@@ -1,0 +1,13 @@
+name = "Ice and Fire: Dragons"
+filename = "iceandfire-1.9.1-1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2939/529/iceandfire-1.9.1-1.12.2.jar"
+hash-format = "murmur2"
+hash = "2365316237"
+
+[update]
+[update.curseforge]
+file-id = 2939529
+project-id = 264231

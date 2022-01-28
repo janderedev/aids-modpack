@@ -1,0 +1,13 @@
+name = "Wireless Redstone CBE"
+filename = "WR-CBE-1.12.2-2.3.2.33-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2755/798/WR-CBE-1.12.2-2.3.2.33-universal.jar"
+hash-format = "murmur2"
+hash = "1081862882"
+
+[update]
+[update.curseforge]
+file-id = 2755798
+project-id = 260824

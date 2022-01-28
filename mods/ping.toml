@@ -1,0 +1,13 @@
+name = "Ping"
+filename = "Ping-1.12.2-1.4.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2676/457/Ping-1.12.2-1.4.5.jar"
+hash-format = "murmur2"
+hash = "2810428641"
+
+[update]
+[update.curseforge]
+file-id = 2676457
+project-id = 222967

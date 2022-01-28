@@ -1,0 +1,13 @@
+name = "MekanismOres"
+filename = "mekores-2.0.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2884/937/mekores-2.0.13.jar"
+hash-format = "murmur2"
+hash = "1914131010"
+
+[update]
+[update.curseforge]
+file-id = 2884937
+project-id = 313340

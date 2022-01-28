@@ -1,0 +1,13 @@
+name = "Yet Another Recipe Conflict Fixer (YARCF) "
+filename = "YARCF-0.14(1.12.2).jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3310/627/YARCF-0.14(1.12.2).jar"
+hash-format = "murmur2"
+hash = "1623731845"
+
+[update]
+[update.curseforge]
+file-id = 3310627
+project-id = 482566

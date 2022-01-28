@@ -1,0 +1,13 @@
+name = "Immersive Technology"
+filename = "MCTImmersiveTechnology-1.12.2-1.9.99.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3534/436/MCTImmersiveTechnology-1.12.2-1.9.99.jar"
+hash-format = "murmur2"
+hash = "784751593"
+
+[update]
+[update.curseforge]
+file-id = 3534436
+project-id = 359407

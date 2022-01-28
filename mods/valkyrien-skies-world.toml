@@ -1,0 +1,13 @@
+name = "Valkyrien Skies World"
+filename = "vs-world-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3061/764/vs-world-1.12.2-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2868489160"
+
+[update]
+[update.curseforge]
+file-id = 3061764
+project-id = 404464

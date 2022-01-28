@@ -1,0 +1,13 @@
+name = "MalisisDoors"
+filename = "malisisdoors-1.12.2-7.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2526/674/malisisdoors-1.12.2-7.3.0.jar"
+hash-format = "murmur2"
+hash = "2375017557"
+
+[update]
+[update.curseforge]
+file-id = 2526674
+project-id = 223891

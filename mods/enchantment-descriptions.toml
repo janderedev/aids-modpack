@@ -1,0 +1,13 @@
+name = "Enchantment Descriptions"
+filename = "EnchantmentDescriptions-1.12.2-1.1.20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2898/966/EnchantmentDescriptions-1.12.2-1.1.20.jar"
+hash-format = "murmur2"
+hash = "1600471480"
+
+[update]
+[update.curseforge]
+file-id = 2898966
+project-id = 250419

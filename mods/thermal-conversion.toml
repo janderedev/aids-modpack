@@ -1,0 +1,13 @@
+name = "Thermal Conversion"
+filename = "ThermalConversion-1.12.2-2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2551/214/ThermalConversion-1.12.2-2.0.jar"
+hash-format = "murmur2"
+hash = "3174396939"
+
+[update]
+[update.curseforge]
+file-id = 2551214
+project-id = 247539

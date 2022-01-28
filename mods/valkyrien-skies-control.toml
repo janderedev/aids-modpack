@@ -1,0 +1,13 @@
+name = "Valkyrien Skies Control"
+filename = "vs-control-1.12.2-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3160/203/vs-control-1.12.2-1.1.1.jar"
+hash-format = "murmur2"
+hash = "40235672"
+
+[update]
+[update.curseforge]
+file-id = 3160203
+project-id = 404463

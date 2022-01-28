@@ -1,0 +1,13 @@
+name = "Vic's Modern Warfare Mod"
+filename = "mw_2.0-0.4.6.2_mc1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3157/722/mw_2.0-0.4.6.2_mc1.12.2.jar"
+hash-format = "murmur2"
+hash = "1658026770"
+
+[update]
+[update.curseforge]
+file-id = 3157722
+project-id = 243788

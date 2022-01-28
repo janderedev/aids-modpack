@@ -1,0 +1,13 @@
+name = "PlasmaCannon"
+filename = "PlasmaCannon-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3111/427/PlasmaCannon-1.4.0.jar"
+hash-format = "murmur2"
+hash = "2975851369"
+
+[update]
+[update.curseforge]
+file-id = 3111427
+project-id = 353208

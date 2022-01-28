@@ -1,0 +1,13 @@
+name = "Hbm's Nuclear Tech Mod Reloaded"
+filename = "hbm-1.6.4a-Gv2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3599/554/hbm-1.6.4a-Gv2.jar"
+hash-format = "murmur2"
+hash = "2437264910"
+
+[update]
+[update.curseforge]
+file-id = 3599554
+project-id = 435883

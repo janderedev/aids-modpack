@@ -1,0 +1,13 @@
+name = "No Auto Jump"
+filename = "NoAutoJump-1.12.2-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2675/418/NoAutoJump-1.12.2-1.1.jar"
+hash-format = "murmur2"
+hash = "1102106163"
+
+[update]
+[update.curseforge]
+file-id = 2675418
+project-id = 282099
