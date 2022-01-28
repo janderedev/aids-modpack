@@ -13,8 +13,8 @@ file = "mods/Food_Expansion_but_horse.3.4_-_1.12.2.jar"
 hash = "f504d1d14d80564a40ba76d30533861ab4da4f32f97e3186b9df5b3058fceb38"
 
 [[files]]
-file = "mods/JustEnoughIDs-1.0.0-6.jar"
-hash = "155690c38494549fdc19599ee3eba494ffb297bce5abfbb5b17df2eb57116c88"
+file = "mods/JustEnoughIDs-1.0.3-55.jar"
+hash = "04ab3865d33987bc390008d6668896a635dc16b252c85918b4bda85d67cbf452"
 
 [[files]]
 file = "mods/WorldControl-1.0.31.jar"
