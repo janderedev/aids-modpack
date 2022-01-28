@@ -13,8 +13,8 @@ file = "mods/Food_Expansion_but_horse.3.4_-_1.12.2.jar"
 hash = "f504d1d14d80564a40ba76d30533861ab4da4f32f97e3186b9df5b3058fceb38"
 
 [[files]]
-file = "mods/MixinBootstrap-1.1.0.jar"
-hash = "17c589aad9907d4ba56d578d502afa80aac1ba2fa8677e8b4d06c019c41d7731"
+file = "mods/JustEnoughIDs-1.0.0-6.jar"
+hash = "155690c38494549fdc19599ee3eba494ffb297bce5abfbb5b17df2eb57116c88"
 
 [[files]]
 file = "mods/WorldControl-1.0.31.jar"
@@ -263,11 +263,6 @@ metafile = true
 [[files]]
 file = "mods/jei.toml"
 hash = "d9161a828947d36bb5002a23ac87441ff13374a96e594541e24a703bbb644cc4"
-metafile = true
-
-[[files]]
-file = "mods/jeid.toml"
-hash = "a4f96d0cddf63ebe829d4aa1ba94403459fc929c3e20ab4e4281d87420b4a1e3"
 metafile = true
 
 [[files]]
