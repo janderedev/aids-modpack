@@ -3,7 +3,7 @@ filename = "[[valkyrien-skies-1.1.7-all]].jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3286/262/[[valkyrien-skies-1.1.7-all]].jar"
+url = "https://edge.forgecdn.net/files/3286/262/%5B%5Bvalkyrien-skies-1.1.7-all%5D%5D.jar"
 hash-format = "murmur2"
 hash = "2614218373"
 
