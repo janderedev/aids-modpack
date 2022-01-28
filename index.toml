@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".git/COMMIT_EDITMSG"
-hash = "91ee5e9f42ba3d34e414443b36a27b797a56a47aad6bb1e4c1769e69c77ce0ca"
+hash = "50790f61602e805aaa07c973b47387a84c75977f26b1d3b0c78580a64a3dd038"
 
 [[files]]
 file = ".git/FETCH_HEAD"
@@ -14,7 +14,7 @@ hash = "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
 
 [[files]]
 file = ".git/ORIG_HEAD"
-hash = "95dd722a73c62f8b9983f5b3187c8aad571a0bf55a9e05eb7e91cfec56bc3cec"
+hash = "d6ca8dc1ba11d304687617cda310ff1086e3a0939caa27ac47ee3e9da12bfaa6"
 
 [[files]]
 file = ".git/config"
@@ -78,7 +78,7 @@ hash = "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
 
 [[files]]
 file = ".git/index"
-hash = "c08bbc6c1e40f0144261455f2f392a4e8b57b4b04c323bf14f0a7750ee81354d"
+hash = "ae0eb00342c17c70ef95c1d5b0b474a13ae9019b681d3774f9b93c86ef75dc04"
 
 [[files]]
 file = ".git/info/exclude"
@@ -86,15 +86,15 @@ hash = "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
 
 [[files]]
 file = ".git/logs/HEAD"
-hash = "43a153cf5bdfa05ccf7f8b23c1c1b4065d7ff6ec5fa22c3a7155308cd71ff7f5"
+hash = "c0506d66a9c74fffd7cfb2a9c86c1aefc9fbb22221d865c42e14525c84f658ea"
 
 [[files]]
 file = ".git/logs/refs/heads/master"
-hash = "43a153cf5bdfa05ccf7f8b23c1c1b4065d7ff6ec5fa22c3a7155308cd71ff7f5"
+hash = "c0506d66a9c74fffd7cfb2a9c86c1aefc9fbb22221d865c42e14525c84f658ea"
 
 [[files]]
 file = ".git/logs/refs/remotes/origin/master"
-hash = "b71fdbf3a97d3d9b7cb4690ba9f9485a09abdc504707ff715288ec479d7acf4d"
+hash = "4b87d803002a7ae55fe8202447c7eb80612ebb5b156fa93306b5ca2f50f5a84f"
 
 [[files]]
 file = ".git/objects/02/9d2b1ef570ff3abd2652c25683213d57ebd635"
@@ -257,6 +257,10 @@ file = ".git/objects/54/2c61f8e67d4c88446425881f37d2a27937625b"
 hash = "8478aa03ff428f12db9d0a5c8d07dbe225fc20796cfd5d5404212f4752774486"
 
 [[files]]
+file = ".git/objects/54/7c51741257804425246060a615f38223dc55a5"
+hash = "7b3c520450a60708eb2e86f48e9b8bd709a41d36addda51cdfb095718d640a19"
+
+[[files]]
 file = ".git/objects/55/5929534f8968a8cd192d04dd3a53b04cd0049f"
 hash = "b16f6644b87513138ffd58bde72a743791ed95fa358c9a101ad09832a50b4571"
 
@@ -283,6 +287,10 @@ hash = "f03c3630789dac53a32d0e0caf79ceb9a745dd830f003f34968abe059ca887a5"
 [[files]]
 file = ".git/objects/60/b0a39fa8b6f8659d8a1849ef7462923ac45c1e"
 hash = "b9dffe2b618b21adcfd964930c0d18522df386cea12284bc5abf614c89416098"
+
+[[files]]
+file = ".git/objects/60/c66e57801e403bf5bd366ec8800bc63afb1311"
+hash = "e3c812b4d0f05f5594fc976abfb31be044481bd321313d0ed6d8d67a2edc1718"
 
 [[files]]
 file = ".git/objects/61/6c7dd489830aee2cd884cc57e40eec56e0cc37"
@@ -341,6 +349,10 @@ file = ".git/objects/80/4d5e89f099cddb8f2ea274dce8d9846ebcb113"
 hash = "465be3a512915fe069666fa8d2e2b3512655249540c7ce789484d16a55f789ee"
 
 [[files]]
+file = ".git/objects/82/af23876cabd3ed5610a6d6dc87f4859749a0e0"
+hash = "8acfdc00d702ed4d4b8395dc46018aec1fd733e3913064e9acbbc101182f55ed"
+
+[[files]]
 file = ".git/objects/83/df5e8cb7a05c7936186578eddefd51bad6f20b"
 hash = "b0cf084c435c2e9ccec5f640dffbf8dccb33f1cdce24325a344192838b565bfd"
 
@@ -387,6 +399,10 @@ hash = "b760eba7261413560641a45cbc0184a735be8d61cabb0569f63cd48e255954f1"
 [[files]]
 file = ".git/objects/90/4844aaec00d004924ae9eb3df48e0ec495ccb7"
 hash = "716af8dd66e634f73f62fc23b6bda4c6c81671e1bb2712641463e566d2d64672"
+
+[[files]]
+file = ".git/objects/91/565f7f07c7f31359e39e9f39b15c00f492c9dc"
+hash = "410921795f437c9df4bf3c9871e74c345cc232e1c9b3ff47cf1e0a35e8b1b153"
 
 [[files]]
 file = ".git/objects/92/0ec13fe6600d449ec828e4a6235ab4fe000309"
@@ -521,6 +537,10 @@ file = ".git/objects/d7/801ff03bbc3262814483d4e03ea4467df7fcd7"
 hash = "e78bbb3090b16a696490795f956db5b1a6aca6efece6c271bab87683e1218a44"
 
 [[files]]
+file = ".git/objects/d8/cef2a5ebe8b340fb366136107cf3b99d19a4d0"
+hash = "4b497e1608e6418f0d404d63f193b9a3ab39b7af9fe71bf29b4dcb725eeafc9a"
+
+[[files]]
 file = ".git/objects/d9/7ae083f3f52428b1c224fef77990fefd86d62f"
 hash = "37134adfe5bb0965438f5ac302a4776ffdcc79fccbc1b81f8d5dacd81c4809e7"
 
@@ -573,6 +593,10 @@ file = ".git/objects/e9/5e880a8e8344e00d398e31da48d228a603d77f"
 hash = "908cb3a8f8bd84960b4818e76bb12ea0d55171643f35fc2a8a9d87535c4ed343"
 
 [[files]]
+file = ".git/objects/e9/6a525c2d187a785634c38f1bb32b583678ee11"
+hash = "1a5368e68bcc7a953bbb554c2311fb84ed8e85fc35b7637d380c4c3c1969e1cc"
+
+[[files]]
 file = ".git/objects/ea/18636d23953e9dc2efce13bb395ab4b1b7af4c"
 hash = "58146a17d7295ab085a0fb1bf5a7fad9beeae119e43d31767868dcdada21b4e4"
 
@@ -585,12 +609,20 @@ file = ".git/objects/eb/267c5e40e7cc5a8851f44ab2e587b9537b0fe6"
 hash = "19b8d20c26dee3795dfea94fe332375b91f0bffcd2a97a472d478e17f25fb9c4"
 
 [[files]]
+file = ".git/objects/ec/00d6c1b462f6224eb15c9d2cd6b5cb02c8ed8e"
+hash = "154d66002708b0296eb2721051876e4a357830dae3636c673110701bdb954006"
+
+[[files]]
 file = ".git/objects/ed/73c8d0cbfc9d25f8ab956ee6fbe7caacd8ca5d"
 hash = "db060a4e266e59998a4a19caf92cef76d5ef1c941cf004bf9ddb16e3f9780300"
 
 [[files]]
 file = ".git/objects/ee/395ab5279c348cb7687304275f66f01097245a"
 hash = "f0413ad6129c3c130f33e0deaddac17cd72931c68abf3d5ed0b063979c63f241"
+
+[[files]]
+file = ".git/objects/ef/69e33df4b793d90ac10f39b3bff1ff93582ff1"
+hash = "374b2a45ac74ce5555d960b76871d6970795ccefa3ee98e7452b6c65af490a6f"
 
 [[files]]
 file = ".git/objects/f0/341a71f6021b3f1b040a5d983474a72122e10e"
@@ -607,6 +639,10 @@ hash = "5d167cfac200b53b42f621a0daaacd5a52c90ff43d6c7540bb36f0ae8bb2beff"
 [[files]]
 file = ".git/objects/f3/f1ca2fd4aa2e6c684006306a844edb647defaf"
 hash = "6edf4ed03881bce042872b487f310a14c6213610b24299eea2d7a3b9cf405e93"
+
+[[files]]
+file = ".git/objects/f7/5e0e03e27667f05bbfe44a78b4c16dac03a27c"
+hash = "f398a97b12c5535e60dbb8af3428db9a7498b59c6e262744ca259feaf7fe4412"
 
 [[files]]
 file = ".git/objects/f8/edc824b0273e19b67c797093e03317f4c7c6ca"
@@ -630,11 +666,11 @@ hash = "70e2461cc0bf21a83cbb17429bf8769b5e113d4b0e1481f4d2152a1a4595dc9a"
 
 [[files]]
 file = ".git/refs/heads/master"
-hash = "32cb963ba5e725a83987e71662b6fa959f16b4c5c31b280192496231287c2c5d"
+hash = "d6ca8dc1ba11d304687617cda310ff1086e3a0939caa27ac47ee3e9da12bfaa6"
 
 [[files]]
 file = ".git/refs/remotes/origin/master"
-hash = "32cb963ba5e725a83987e71662b6fa959f16b4c5c31b280192496231287c2c5d"
+hash = "d6ca8dc1ba11d304687617cda310ff1086e3a0939caa27ac47ee3e9da12bfaa6"
 
 [[files]]
 file = ".gitattributes"
@@ -649,7 +685,7 @@ file = "1.12UncraftingTable-1.8-beta6.jar"
 hash = "1d901ce8c14d232c8da48e8c5c6f0cf0d61f296da3a2f1401be7fcb6c3ce53a4"
 
 [[files]]
-file = "BiblioCraft[v2.4.5][MC1.12.2].jar"
+file = "BiblioCraft-v2.4.5-MC1.12.2.jar"
 hash = "b3aab967cf9a2fcaf1330b5a5997f8d31e7a73884eac7451f1f31b2fa1394add"
 
 [[files]]
@@ -659,10 +695,6 @@ hash = "f504d1d14d80564a40ba76d30533861ab4da4f32f97e3186b9df5b3058fceb38"
 [[files]]
 file = "WorldControl-1.0.31.jar"
 hash = "e0dcdae90d56bb6e0b21412e088072f1fdf3d60d135f1cf5499332b713effdb8"
-
-[[files]]
-file = "[[valkyrien-skies-1.1.7-all]].jar"
-hash = "45f6e682b431ae7d11baf76f4c59f3d8bfd7dab95726dab9ee85453a6d42b898"
 
 [[files]]
 file = "mods/actually-additions.toml"
@@ -1213,3 +1245,7 @@ metafile = true
 file = "mods/yarcf.toml"
 hash = "76cd3981efe2eef102480a291826fc1cfaac9f0b9cef711bba4e52ec4f6a460c"
 metafile = true
+
+[[files]]
+file = "valkyrien-skies-1.1.7-all.jar"
+hash = "45f6e682b431ae7d11baf76f4c59f3d8bfd7dab95726dab9ee85453a6d42b898"
