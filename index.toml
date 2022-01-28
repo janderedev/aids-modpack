@@ -41,6 +41,10 @@ file = "mods/JustEnoughIDs-1.0.3-55.jar"
 hash = "04ab3865d33987bc390008d6668896a635dc16b252c85918b4bda85d67cbf452"
 
 [[files]]
+file = "mods/OptiFine_1.12.2_HD_U_G5.jar"
+hash = "3b0006797771feb97f2d0d2908ae7c9a78cefb2e730af1c2e85d08a839ba271e"
+
+[[files]]
 file = "mods/WorldControl-1.0.31.jar"
 hash = "e0dcdae90d56bb6e0b21412e088072f1fdf3d60d135f1cf5499332b713effdb8"
 
@@ -402,11 +406,6 @@ metafile = true
 [[files]]
 file = "mods/openmodslib.toml"
 hash = "c030de58f5d34eb9cfd4c4a0b8d34fd7cdf74dc0a929044c1daad31187ecef74"
-metafile = true
-
-[[files]]
-file = "mods/optifine-capes.toml"
-hash = "5f882ad7067ae3a1790f2957d753dd65c3fde0b9dce085dae022bb08d6a84c2d"
 metafile = true
 
 [[files]]
