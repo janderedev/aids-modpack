@@ -13,12 +13,12 @@ file = "mods/Food_Expansion_but_horse.3.4_-_1.12.2.jar"
 hash = "f504d1d14d80564a40ba76d30533861ab4da4f32f97e3186b9df5b3058fceb38"
 
 [[files]]
-file = "mods/WorldControl-1.0.31.jar"
-hash = "e0dcdae90d56bb6e0b21412e088072f1fdf3d60d135f1cf5499332b713effdb8"
+file = "mods/MixinBootstrap-1.1.0.jar"
+hash = "17c589aad9907d4ba56d578d502afa80aac1ba2fa8677e8b4d06c019c41d7731"
 
 [[files]]
-file = "mods/_MixinBootstrap-1.1.0.jar"
-hash = "17c589aad9907d4ba56d578d502afa80aac1ba2fa8677e8b4d06c019c41d7731"
+file = "mods/WorldControl-1.0.31.jar"
+hash = "e0dcdae90d56bb6e0b21412e088072f1fdf3d60d135f1cf5499332b713effdb8"
 
 [[files]]
 file = "mods/actually-additions.toml"
