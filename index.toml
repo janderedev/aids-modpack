@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
+hash = "e910ee89906d696eedef7158868c8cdb91849a05a718469ffa320d5fe41dcf96"
+
+[[files]]
+file = "config/advRocketry/advancedRocketry.cfg"
+hash = "5738bec873511d8caf2a25b12e7faeeb706bd86033cc73b52acb6a3e1b73f7f0"
+
+[[files]]
+file = "config/computercraft.cfg"
+hash = "45ec3cf4599e6dc33f87d34fe62bbd91449ea1a609ca7057ba0b48d8db6afb26"
+
+[[files]]
+file = "config/gravitygun.cfg"
+hash = "40b2924902f8ef98fa5c332480b4060a009f5c0e4bf24fdf017d6dcaacefd4bb"
+
+[[files]]
+file = "config/hbm/hbm.cfg"
+hash = "de696eeda77041d45529ae6bf520b96d664c9401b3664b871539e14ae37ae433"
+
+[[files]]
+file = "config/torchmaster.cfg"
+hash = "8938722164e54d40860a716e4955b6e52c3571466e37d9eb7e12af72d9fbb0ef"
+
+[[files]]
 file = "mods/1.12UncraftingTable-1.8-beta6.jar"
 hash = "1d901ce8c14d232c8da48e8c5c6f0cf0d61f296da3a2f1401be7fcb6c3ce53a4"
 
@@ -567,11 +591,6 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies-world.toml"
 hash = "542a0b45a86cda397ee7c64cf942b65027b20491c7aeec4baa88fd6aad0f83e4"
-metafile = true
-
-[[files]]
-file = "mods/vics-modern-warfare-mod.toml"
-hash = "6378f89542635637fdfd7a099d7f2d51771539c6c280c53770fa6e82a5066b00"
 metafile = true
 
 [[files]]
