@@ -1,0 +1,13 @@
+name = "JAOPCA"
+filename = "JAOPCA-1.12.2-2.2.8.106.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3487/112/JAOPCA-1.12.2-2.2.8.106.jar"
+hash-format = "murmur2"
+hash = "3274276256"
+
+[update]
+[update.curseforge]
+file-id = 3487112
+project-id = 266936

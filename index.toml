@@ -146,6 +146,11 @@ hash = "dc8971e851e886428db2391eb2d2b4ee48502636c6e56c00338bc52fd3e51865"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.toml"
+hash = "069b179a991c173f734d04f1119abbc7f8860e4c19cce7593e2e2ca8d276d0d5"
+metafile = true
+
+[[files]]
 file = "mods/ctm.toml"
 hash = "bc75d8203e6f8e2fe15ddd0a1b9cb661c97199b53a7e9e36169083191451a5b0"
 metafile = true
@@ -261,6 +266,11 @@ hash = "f509cfc8188340dad5bd4af026b76428f7aae659edc19113fb163b50a49bd728"
 metafile = true
 
 [[files]]
+file = "mods/jaopca.toml"
+hash = "00736cbc3368fd80f73eda4202c861febe118fd5640914b5c823da986bafb2f5"
+metafile = true
+
+[[files]]
 file = "mods/jei.toml"
 hash = "d9161a828947d36bb5002a23ac87441ff13374a96e594541e24a703bbb644cc4"
 metafile = true
@@ -343,6 +353,16 @@ metafile = true
 [[files]]
 file = "mods/no-auto-jump.toml"
 hash = "f66301a97afd274fc3b0f76487d0cdf4115bc1400e42f1ce50fdca1955f8d24f"
+metafile = true
+
+[[files]]
+file = "mods/nuclearcraft-mod.toml"
+hash = "7526510733d6f531b1fe029df8d0ac7951a2f041e4cbfc9ce87ace71fd8b0ef4"
+metafile = true
+
+[[files]]
+file = "mods/onlinepictureframe.toml"
+hash = "8a517fe964fd0d9e0016dd6e0e6379cd135883c0286518566e8c100e46816388"
 metafile = true
 
 [[files]]
@@ -562,6 +582,11 @@ metafile = true
 [[files]]
 file = "mods/wireless-redstone-cbe.toml"
 hash = "0b13df43d1cdbcd2b022b028898b91e317612370e08b80bea096f52ff81989ae"
+metafile = true
+
+[[files]]
+file = "mods/wrapup.toml"
+hash = "8aa21c80d8425e3318a106004ab26fd5d6e2493c4a2f9b2ecafa083d5d2dfff8"
 metafile = true
 
 [[files]]
