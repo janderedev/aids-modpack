@@ -1,19 +1,19 @@
 hash-format = "sha256"
 
 [[files]]
-file = "1.12UncraftingTable-1.8-beta6.jar"
+file = "mods/1.12UncraftingTable-1.8-beta6.jar"
 hash = "1d901ce8c14d232c8da48e8c5c6f0cf0d61f296da3a2f1401be7fcb6c3ce53a4"
 
 [[files]]
-file = "BiblioCraft-v2.4.5-MC1.12.2.jar"
+file = "mods/BiblioCraft-v2.4.5-MC1.12.2.jar"
 hash = "b3aab967cf9a2fcaf1330b5a5997f8d31e7a73884eac7451f1f31b2fa1394add"
 
 [[files]]
-file = "Food_Expansion_but_horse.3.4_-_1.12.2.jar"
+file = "mods/Food_Expansion_but_horse.3.4_-_1.12.2.jar"
 hash = "f504d1d14d80564a40ba76d30533861ab4da4f32f97e3186b9df5b3058fceb38"
 
 [[files]]
-file = "WorldControl-1.0.31.jar"
+file = "mods/WorldControl-1.0.31.jar"
 hash = "e0dcdae90d56bb6e0b21412e088072f1fdf3d60d135f1cf5499332b713effdb8"
 
 [[files]]
@@ -532,6 +532,10 @@ hash = "4e5491b9a4c78ca16da2a8b2112b51a6c996efdb2556556faff429cb34521ff8"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-skies-1.1.7-all.jar"
+hash = "45f6e682b431ae7d11baf76f4c59f3d8bfd7dab95726dab9ee85453a6d42b898"
+
+[[files]]
 file = "mods/valkyrien-skies-control.toml"
 hash = "fded09b2532a8b1718d3ef73e28461f62530e310e8bc41e20a939e8a936637a0"
 metafile = true
@@ -565,7 +569,3 @@ metafile = true
 file = "mods/yarcf.toml"
 hash = "76cd3981efe2eef102480a291826fc1cfaac9f0b9cef711bba4e52ec4f6a460c"
 metafile = true
-
-[[files]]
-file = "valkyrien-skies-1.1.7-all.jar"
-hash = "45f6e682b431ae7d11baf76f4c59f3d8bfd7dab95726dab9ee85453a6d42b898"
