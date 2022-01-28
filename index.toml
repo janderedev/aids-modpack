@@ -271,11 +271,6 @@ hash = "635cf30a416558f4f851fdf94690b05c5cbd6cdab4f62e99e0d3d6fc003bb07f"
 metafile = true
 
 [[files]]
-file = "mods/large-ore-deposits.toml"
-hash = "36c071e4974ce7afc81dda6615a00a35ff30bb99780f89401f95d2babcb8e334"
-metafile = true
-
-[[files]]
 file = "mods/libvulpes.toml"
 hash = "98ef5c9f1ba694ff440d3137fad29fbd4d65eb51f120e6f9eed74db34a8e2d72"
 metafile = true
