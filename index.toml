@@ -262,6 +262,11 @@ hash = "d9161a828947d36bb5002a23ac87441ff13374a96e594541e24a703bbb644cc4"
 metafile = true
 
 [[files]]
+file = "mods/jeid.toml"
+hash = "a4f96d0cddf63ebe829d4aa1ba94403459fc929c3e20ab4e4281d87420b4a1e3"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.toml"
 hash = "635cf30a416558f4f851fdf94690b05c5cbd6cdab4f62e99e0d3d6fc003bb07f"
 metafile = true
@@ -344,11 +349,6 @@ metafile = true
 [[files]]
 file = "mods/no-auto-jump.toml"
 hash = "f66301a97afd274fc3b0f76487d0cdf4115bc1400e42f1ce50fdca1955f8d24f"
-metafile = true
-
-[[files]]
-file = "mods/notenoughids.toml"
-hash = "28a9a73c5fbf28888895e963914186322b0a96ebc069a2b368e914959c50e1e9"
 metafile = true
 
 [[files]]
