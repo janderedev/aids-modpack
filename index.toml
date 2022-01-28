@@ -381,6 +381,11 @@ hash = "c030de58f5d34eb9cfd4c4a0b8d34fd7cdf74dc0a929044c1daad31187ecef74"
 metafile = true
 
 [[files]]
+file = "mods/optifine-capes.toml"
+hash = "5f882ad7067ae3a1790f2957d753dd65c3fde0b9dce085dae022bb08d6a84c2d"
+metafile = true
+
+[[files]]
 file = "mods/p455w0rds-library.toml"
 hash = "2c326a5323c96939f69eb25fafebe1952e8621aad344875ce4312ee1544ef92b"
 metafile = true

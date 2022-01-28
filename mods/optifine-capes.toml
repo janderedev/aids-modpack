@@ -1,0 +1,13 @@
+name = "Optifine Capes"
+filename = "OptifineCapes-1.0-1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2963/967/OptifineCapes-1.0-1.12.2.jar"
+hash-format = "murmur2"
+hash = "3397446026"
+
+[update]
+[update.curseforge]
+file-id = 2963967
+project-id = 385314
