@@ -99,6 +99,11 @@ hash = "cbc5b1f1caf2550fa3927d8ba4134b47463920c382cf333610a402b70d75c362"
 metafile = true
 
 [[files]]
+file = "mods/born-in-a-barn.toml"
+hash = "b91f2a580bd4ad7fd53ee60a9b7c41be6be34f913e6edc034bd0a0a1d4405e43"
+metafile = true
+
+[[files]]
 file = "mods/brandons-core.toml"
 hash = "a647cc47aa899c9a97bd71f466826d341a61b98b651be7d1f432fb93bf8e20ad"
 metafile = true
@@ -106,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/buildcraft.toml"
 hash = "4c79e4d02620f529a4f382467d038b78cba70ae3e6c48a5208c55f4c683e7a16"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.toml"
+hash = "d75b3bfabec945f76b59031a1d8dce27f3da3f34bb4dbe1365f340c196e39a4b"
 metafile = true
 
 [[files]]
@@ -199,6 +209,11 @@ hash = "e2316381a935bc9ef10806c73190515cbf448eee77136b42b18d32655a281ae8"
 metafile = true
 
 [[files]]
+file = "mods/dank-null.toml"
+hash = "6367647102301ea08609e2d6c6ff543a707959dca2617bc5e0d55c2bb5b59781"
+metafile = true
+
+[[files]]
 file = "mods/draconic-evolution.toml"
 hash = "e09f38ea81951f913831fece2cc1b56dc21621d3103a1eb77aec403117527e14"
 metafile = true
@@ -219,6 +234,11 @@ hash = "b7eadd8397a367c5f2a303d1876ca2326e8461c12b6cc04a7dbe563edb2e9de4"
 metafile = true
 
 [[files]]
+file = "mods/ender-storage-1-8.toml"
+hash = "88d2d36f1626de33d36d1aa2ff8b8ff7d0c0ea054142c9f09f943fe3d7689f21"
+metafile = true
+
+[[files]]
 file = "mods/endercore.toml"
 hash = "e6855abd980f6afb82293320e932eedbc44fd191949a415c48a276f91c3a0d90"
 metafile = true
@@ -231,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/extra-utilities.toml"
 hash = "d056e10862186633d8f2b87d1c4d44c6b60f6e9f9f7cdea49af203c964fcd2b1"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.toml"
+hash = "252993f2505dbb4e55bbc21c803cd9316ec0fc7a80be02c5161ab6fc01c9eeff"
 metafile = true
 
 [[files]]
@@ -254,6 +279,11 @@ hash = "6820cf82c487746ab0e6e94e26ab2f18893bba07d22731eac894245b2ff70145"
 metafile = true
 
 [[files]]
+file = "mods/fps-reducer.toml"
+hash = "6eb5d5c2ffb449f71baa011965488e340f59ab3c692a5471dd412c197a6a3382"
+metafile = true
+
+[[files]]
 file = "mods/general-laymans-aesthetic-spying-screen-glass.toml"
 hash = "bbd40b87d0f2aeca47235b147f26c6826731631b7f777b3f50e9c6223a4e8608"
 metafile = true
@@ -261,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/gravity-gun.toml"
 hash = "b3c3228f78619d2f7cf464958dc6bb5ce3c8c8ec2714e6fe64393d9e3ea732d7"
+metafile = true
+
+[[files]]
+file = "mods/gunpowderlib.toml"
+hash = "13464da003a31460873006df1fe02ae57737ecf493bd3ef3cd471556ca6216cb"
 metafile = true
 
 [[files]]
@@ -294,6 +329,16 @@ hash = "1eea8565cd4236a1ee984cc148eb215bdff90526ba8ccd6a829fd277e92a9c7b"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.toml"
+hash = "570cefcfd7bee2988a7a13ccbe632ce3967d3af8df22604555124335a70aee5f"
+metafile = true
+
+[[files]]
+file = "mods/integration-foregoing.toml"
+hash = "ca7caf9a5c0041ab8b7ff4a2fac7f3abd55855cf51fbfd5a4b3dc359a96c388e"
+metafile = true
+
+[[files]]
 file = "mods/iron-backpacks.toml"
 hash = "bc828ca9a683ae17f8c48781e6426fa3bc2271324687087502df7c446a36cdd4"
 metafile = true
@@ -314,8 +359,23 @@ hash = "d9161a828947d36bb5002a23ac87441ff13374a96e594541e24a703bbb644cc4"
 metafile = true
 
 [[files]]
+file = "mods/jetif.toml"
+hash = "8f03068eb5ce1bf913bcef7a9f45577b5f824ee4765fcbf5fc4522f68eee5a49"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.toml"
 hash = "635cf30a416558f4f851fdf94690b05c5cbd6cdab4f62e99e0d3d6fc003bb07f"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-energistics-jee.toml"
+hash = "4afe0ab80893bd5649606070391bc84c1c9daf1831681cac27c25218981e25ea"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.toml"
+hash = "b0b82537cab9d9686f7c4b7f208dfd390a44dd8eadaaa6b700bc87518abe2a9d"
 metafile = true
 
 [[files]]
@@ -371,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/mekanismores.toml"
 hash = "4d209be65e3a1be8479c17b299d59141a4d1e8dc08b7721484c164963506b03e"
+metafile = true
+
+[[files]]
+file = "mods/more-overlays.toml"
+hash = "3ab186ffdcd7e52df4486c1ebec7f8ccb733753e1e7b79c0bc68ec56ae9c1e38"
 metafile = true
 
 [[files]]
@@ -519,13 +584,33 @@ hash = "806c623bfe1d4b9d39d6279d903066c148671c3a0ea3b518fda096e7f73bf545"
 metafile = true
 
 [[files]]
+file = "mods/solar-flux-reborn.toml"
+hash = "62dd24f001c07a3584be27325599cbd413cd0283e7ed84994fd6b74e734c3449"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.toml"
 hash = "118782e25b3be6017813ee897f8ba86cdf449b552bf6526722befdf6d2c0e494"
 metafile = true
 
 [[files]]
+file = "mods/swingthroughgrass.toml"
+hash = "85cdac704fe6a10d2b0d2f6cd5a7ef381ed61de80cb125372028b560f1d7d35a"
+metafile = true
+
+[[files]]
+file = "mods/tesla-core-lib.toml"
+hash = "3a5f7347da0fb1783b5fb785b90f236565b1341289a3056ec651cd79102aed3d"
+metafile = true
+
+[[files]]
 file = "mods/thaumcraft.toml"
 hash = "0a9f24252bc4ae551f15df7c9651d6b5c19a63dded30c6e60879f5b16284bbda"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-energistics.toml"
+hash = "a9bb96639053a2990a92c47659edf378c2c422eb813f5169ea57efd901cd3e88"
 metafile = true
 
 [[files]]
@@ -596,6 +681,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.toml"
 hash = "4e5491b9a4c78ca16da2a8b2112b51a6c996efdb2556556faff429cb34521ff8"
+metafile = true
+
+[[files]]
+file = "mods/unloader.toml"
+hash = "30e4a3b04c09e162946ed764d08ec0a271bf5d573db1f75c94ee428eeb6536df"
 metafile = true
 
 [[files]]
