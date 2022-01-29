@@ -85,13 +85,28 @@ hash = "59ecf666f7e28eb99502b0cf5a510559f6e775c10c0950d0596e980e9e212314"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.toml"
+hash = "17c039f61ca9d1b55c3c717be2f0d88ef81a2811bbe4e7e9c4f956a4531ea445"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.toml"
 hash = "c80ef236d4fcc6459bb434daed0a9e4a3941d8f5fccc8291dbde413988816504"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.toml"
+hash = "e90d9782a7b6b92792b79456f983eb6ee1a1e7144e1fb0b4e9d729288fe7c895"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.toml"
 hash = "41ae68e216ad4671e5f30d9716ad391282a78dc45d14233988d508f91444ae26"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie-reloaded.toml"
+hash = "e1b48d764e743a5ab0a6d7be543e0b4139a32bc09a422589b558da1ceee0c8c8"
 metafile = true
 
 [[files]]
@@ -265,6 +280,11 @@ hash = "d056e10862186633d8f2b87d1c4d44c6b60f6e9f9f7cdea49af203c964fcd2b1"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.toml"
+hash = "47c047df9320d5a336ef384e1348933494c1139453e7dc7139bfccd825757769"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.toml"
 hash = "252993f2505dbb4e55bbc21c803cd9316ec0fc7a80be02c5161ab6fc01c9eeff"
 metafile = true
@@ -390,6 +410,11 @@ hash = "b0b82537cab9d9686f7c4b7f208dfd390a44dd8eadaaa6b700bc87518abe2a9d"
 metafile = true
 
 [[files]]
+file = "mods/kleeslabs.toml"
+hash = "042547718a6a386a103cedbf189337b2472cd98300345f732b0d4440a27f77f0"
+metafile = true
+
+[[files]]
 file = "mods/libvulpes.toml"
 hash = "98ef5c9f1ba694ff440d3137fad29fbd4d65eb51f120e6f9eed74db34a8e2d72"
 metafile = true
@@ -467,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/mysticallib.toml"
 hash = "888411abac0b71c6db4f17e228bc31a3a4cd8dc843bd912ad058056daaf519c7"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.toml"
+hash = "722f8131c55c9fb782b49e32567c95fa3f4c43ed75ca08c993586e675194fc3c"
 metafile = true
 
 [[files]]
@@ -695,6 +725,11 @@ hash = "4e5491b9a4c78ca16da2a8b2112b51a6c996efdb2556556faff429cb34521ff8"
 metafile = true
 
 [[files]]
+file = "mods/unidict.toml"
+hash = "c46b388a3bf496faf6b65af275aec44cd3e36ac982da9b10d75e3b342b1b86a6"
+metafile = true
+
+[[files]]
 file = "mods/unloader.toml"
 hash = "30e4a3b04c09e162946ed764d08ec0a271bf5d573db1f75c94ee428eeb6536df"
 metafile = true
@@ -711,6 +746,16 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies-world.toml"
 hash = "542a0b45a86cda397ee7c64cf942b65027b20491c7aeec4baa88fd6aad0f83e4"
+metafile = true
+
+[[files]]
+file = "mods/waila-harvestability.toml"
+hash = "a7f7ef6fe9cb2ab4b9b7702ba966137a530ce8b2f6dbf2f305f4c17ec96f62c4"
+metafile = true
+
+[[files]]
+file = "mods/wanionlib.toml"
+hash = "9f069d549e76a4faa3b672f1531c8a65e72ca80697c2dd18df36a2c858e5695a"
 metafile = true
 
 [[files]]
