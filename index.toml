@@ -3,26 +3,37 @@ hash-format = "sha256"
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
 hash = "e910ee89906d696eedef7158868c8cdb91849a05a718469ffa320d5fe41dcf96"
+preserve = true
 
 [[files]]
 file = "config/advRocketry/advancedRocketry.cfg"
 hash = "5738bec873511d8caf2a25b12e7faeeb706bd86033cc73b52acb6a3e1b73f7f0"
+preserve = true
 
 [[files]]
 file = "config/computercraft.cfg"
 hash = "45ec3cf4599e6dc33f87d34fe62bbd91449ea1a609ca7057ba0b48d8db6afb26"
+preserve = true
 
 [[files]]
 file = "config/gravitygun.cfg"
 hash = "40b2924902f8ef98fa5c332480b4060a009f5c0e4bf24fdf017d6dcaacefd4bb"
+preserve = true
 
 [[files]]
 file = "config/hbm/hbm.cfg"
 hash = "de696eeda77041d45529ae6bf520b96d664c9401b3664b871539e14ae37ae433"
+preserve = true
+
+[[files]]
+file = "config/ice_and_fire.cfg"
+hash = "9e625c537d9e3fb2ed75ee188549d1204851f2fdf2d49b25154fc8484a51979f"
+preserve = true
 
 [[files]]
 file = "config/torchmaster.cfg"
 hash = "8938722164e54d40860a716e4955b6e52c3571466e37d9eb7e12af72d9fbb0ef"
+preserve = true
 
 [[files]]
 file = "mods/1.12UncraftingTable-1.8-beta6.jar"
