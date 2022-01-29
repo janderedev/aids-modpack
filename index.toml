@@ -119,6 +119,11 @@ hash = "f677404bead4eceb8a739fc9e32224ca0f9ea5872c52d57c36d64eb9c280a547"
 metafile = true
 
 [[files]]
+file = "mods/chameleon.toml"
+hash = "8d44c7530740c2c9dc9a38a1cd4985a80548a36b4ba71912cdaad5f6b4d31b84"
+metafile = true
+
+[[files]]
 file = "mods/chicken-chunks-1-8.toml"
 hash = "7e1b0bf14217ed189fedbff2f280934b99e36de6979dcb57018db91382675049"
 metafile = true
@@ -131,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/chisels-bits.toml"
 hash = "53e5ebccb77accc37c3df5e104335749589947a0a54a81a2fed8a6c518cc3748"
+metafile = true
+
+[[files]]
+file = "mods/chunkpregenerator.toml"
+hash = "79980db821febdb29d6b04a52f5788e8db34a61fcdb48935845b6fc41e150649"
 metafile = true
 
 [[files]]
@@ -364,6 +374,11 @@ hash = "4d209be65e3a1be8479c17b299d59141a4d1e8dc08b7721484c164963506b03e"
 metafile = true
 
 [[files]]
+file = "mods/more-sound-config.toml"
+hash = "7e5c0906ff79075a16ab047b82296a07624e6e342faf0ae0828a09e8b8c05ddc"
+metafile = true
+
+[[files]]
 file = "mods/moving-elevators.toml"
 hash = "07caa27e0d9a8f06a3f439a3d1458db8936a595b429fa0aca9183667b466393f"
 metafile = true
@@ -501,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/shadowmc.toml"
 hash = "806c623bfe1d4b9d39d6279d903066c148671c3a0ea3b518fda096e7f73bf545"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.toml"
+hash = "118782e25b3be6017813ee897f8ba86cdf449b552bf6526722befdf6d2c0e494"
 metafile = true
 
 [[files]]
