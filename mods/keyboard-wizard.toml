@@ -1,0 +1,13 @@
+name = "Keyboard Wizard"
+filename = "keywizard-1.12.2-1.7.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2841/927/keywizard-1.12.2-1.7.3.jar"
+hash-format = "murmur2"
+hash = "4256854238"
+
+[update]
+[update.curseforge]
+file-id = 2841927
+project-id = 262366

@@ -410,6 +410,11 @@ hash = "b0b82537cab9d9686f7c4b7f208dfd390a44dd8eadaaa6b700bc87518abe2a9d"
 metafile = true
 
 [[files]]
+file = "mods/keyboard-wizard.toml"
+hash = "b0cdae3232f66f1e4084cb5abc8ebb311a7658402a14b523e2e707bba4bd5be6"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs.toml"
 hash = "042547718a6a386a103cedbf189337b2472cd98300345f732b0d4440a27f77f0"
 metafile = true
