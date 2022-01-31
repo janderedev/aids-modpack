@@ -320,6 +320,11 @@ hash = "bbd40b87d0f2aeca47235b147f26c6826731631b7f777b3f50e9c6223a4e8608"
 metafile = true
 
 [[files]]
+file = "mods/gotta-go-fast.toml"
+hash = "cb7b50e2cb5c050c57d44ba79b2d347c1dcf8df3276495007abefcfe509fa929"
+metafile = true
+
+[[files]]
 file = "mods/gravity-gun.toml"
 hash = "b3c3228f78619d2f7cf464958dc6bb5ce3c8c8ec2714e6fe64393d9e3ea732d7"
 metafile = true

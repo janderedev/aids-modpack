@@ -1,0 +1,13 @@
+name = "Gotta Go Fast"
+filename = "gottagofast-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2553/444/gottagofast-1.1.jar"
+hash-format = "murmur2"
+hash = "1074330654"
+
+[update]
+[update.curseforge]
+file-id = 2553444
+project-id = 282064
