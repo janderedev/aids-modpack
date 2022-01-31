@@ -205,6 +205,11 @@ hash = "280a32f2c8d5b6e295621cdec382e23971dc140f86a9d6c032ed571be63282ca"
 metafile = true
 
 [[files]]
+file = "mods/colorchat.toml"
+hash = "fae91bc8dcefcacfaf22dac0bcf507da1f2868cc490b9147fed429ea53f74dcf"
+metafile = true
+
+[[files]]
 file = "mods/colossal-chests.toml"
 hash = "ff0830a68061a7dc0b11e0bd40eb7ae8bcc3fe426d032c00119dd511a34c180a"
 metafile = true
@@ -252,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/draconicadditions.toml"
 hash = "b132ec359d3e8c436d1ffe2778547f786686ab8cb3593aa94d65a400e06358ab"
+metafile = true
+
+[[files]]
+file = "mods/emojiful.toml"
+hash = "bb6463d3375d197ef34ebfcf2f4af53ca10461ce1155379d1f5ddfb1be0fe9e1"
 metafile = true
 
 [[files]]
@@ -417,6 +427,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.toml"
 hash = "b0b82537cab9d9686f7c4b7f208dfd390a44dd8eadaaa6b700bc87518abe2a9d"
+metafile = true
+
+[[files]]
+file = "mods/k4lib.toml"
+hash = "cbd55dc16047118499987f2114f2b6e36e4a562286fea62c50f120ac56635db9"
 metafile = true
 
 [[files]]

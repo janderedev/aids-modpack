@@ -1,0 +1,13 @@
+name = "ColorChat"
+filename = "colorchat-1.12.1-2.0.43-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2485/852/colorchat-1.12.1-2.0.43-universal.jar"
+hash-format = "murmur2"
+hash = "3751720377"
+
+[update]
+[update.curseforge]
+file-id = 2485852
+project-id = 221276
