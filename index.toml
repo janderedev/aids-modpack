@@ -120,6 +120,11 @@ hash = "49918a4ad46af2f7281939de87db0ecf18eb81b6d6aec93ea6c35255777a1f01"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.toml"
+hash = "82022f11d4396aaaa00efa688fa3824e57fbeef03924fcb759c75d61cdab7931"
+metafile = true
+
+[[files]]
 file = "mods/blockcraftery.toml"
 hash = "cbc5b1f1caf2550fa3927d8ba4134b47463920c382cf333610a402b70d75c362"
 metafile = true

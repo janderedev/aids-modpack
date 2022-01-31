@@ -1,0 +1,13 @@
+name = "Biomes O' Plenty"
+filename = "BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3558/882/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar"
+hash-format = "murmur2"
+hash = "900488714"
+
+[update]
+[update.curseforge]
+file-id = 3558882
+project-id = 220318
