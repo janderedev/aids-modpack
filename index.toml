@@ -445,6 +445,11 @@ hash = "042547718a6a386a103cedbf189337b2472cd98300345f732b0d4440a27f77f0"
 metafile = true
 
 [[files]]
+file = "mods/laggoggles.toml"
+hash = "dd3d1d8509c107b0a877ff142cfc78e69fd00a1472b87a70f8795e099213c90d"
+metafile = true
+
+[[files]]
 file = "mods/libvulpes.toml"
 hash = "98ef5c9f1ba694ff440d3137fad29fbd4d65eb51f120e6f9eed74db34a8e2d72"
 metafile = true
@@ -745,6 +750,11 @@ hash = "7496f70cfb56c20d054148591b636424f85af757538bd64686b0fc7eb9f09779"
 metafile = true
 
 [[files]]
+file = "mods/tickcentral.toml"
+hash = "7bf00f6b12ce9b7ddd424c96cf49c928a9748f4d2a98bd40a8e72f1484219ec1"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.toml"
 hash = "131752b61339fcb4ed3638b8fa11e5b0ac6579bde2649b7f455e5c7b7e8d25a3"
 metafile = true
@@ -801,6 +811,11 @@ metafile = true
 [[files]]
 file = "mods/wireless-redstone-cbe.toml"
 hash = "0b13df43d1cdbcd2b022b028898b91e317612370e08b80bea096f52ff81989ae"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.toml"
+hash = "5687ecc1cba76a50a51940d74d91c2a769f2bc28f44e356507018d3ceb359716"
 metafile = true
 
 [[files]]
