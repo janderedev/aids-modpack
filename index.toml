@@ -99,6 +99,16 @@ hash = "c80ef236d4fcc6459bb434daed0a9e4a3941d8f5fccc8291dbde413988816504"
 metafile = true
 
 [[files]]
+file = "mods/aroma1997core.toml"
+hash = "07340057e3641b3adca85abc51ff8abca9d2eea01496c9e2d5724ca6c3f9a7a5"
+metafile = true
+
+[[files]]
+file = "mods/aromabackup.toml"
+hash = "e71e3204638b79824c738aee97da36162988133c653aaf0da862874c77399a01"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.toml"
 hash = "e90d9782a7b6b92792b79456f983eb6ee1a1e7144e1fb0b4e9d729288fe7c895"
 metafile = true
