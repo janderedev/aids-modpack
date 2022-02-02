@@ -44,6 +44,10 @@ file = "mods/BiblioCraft-v2.4.5-MC1.12.2.jar"
 hash = "b3aab967cf9a2fcaf1330b5a5997f8d31e7a73884eac7451f1f31b2fa1394add"
 
 [[files]]
+file = "mods/Computronics-1.12.2-1.6.6.jar"
+hash = "9bfc4c8763c008e7dd4e50fd5f82492962197f2bdc5f29668e9154e2c0c83ddf"
+
+[[files]]
 file = "mods/Food_Expansion_but_horse.3.4_-_1.12.2.jar"
 hash = "f504d1d14d80564a40ba76d30533861ab4da4f32f97e3186b9df5b3058fceb38"
 
@@ -292,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/extra-utilities.toml"
 hash = "d056e10862186633d8f2b87d1c4d44c6b60f6e9f9f7cdea49af203c964fcd2b1"
+metafile = true
+
+[[files]]
+file = "mods/extracells2.toml"
+hash = "28cd5ab3c6143ed1dd18dcf5158f34c4a9bcb5262c1f3b1d99a910655c05d56e"
 metafile = true
 
 [[files]]
