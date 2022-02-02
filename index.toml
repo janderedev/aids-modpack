@@ -26,11 +26,6 @@ hash = "de696eeda77041d45529ae6bf520b96d664c9401b3664b871539e14ae37ae433"
 preserve = true
 
 [[files]]
-file = "config/ice_and_fire.cfg"
-hash = "9e625c537d9e3fb2ed75ee188549d1204851f2fdf2d49b25154fc8484a51979f"
-preserve = true
-
-[[files]]
 file = "config/torchmaster.cfg"
 hash = "8938722164e54d40860a716e4955b6e52c3571466e37d9eb7e12af72d9fbb0ef"
 preserve = true
@@ -376,11 +371,6 @@ metafile = true
 [[files]]
 file = "mods/hwyla.toml"
 hash = "83e2ac68eca46dae06d6ed191e8d55fe72faa69a98bcde2303fd9d1658e052de"
-metafile = true
-
-[[files]]
-file = "mods/ice-and-fire-dragons.toml"
-hash = "98f5789620a61b4505f64c6c80654df5a4dae121138afd75ed634a30591c6753"
 metafile = true
 
 [[files]]
