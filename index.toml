@@ -803,11 +803,6 @@ hash = "542a0b45a86cda397ee7c64cf942b65027b20491c7aeec4baa88fd6aad0f83e4"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-skies.toml"
-hash = "b0f980eb3d5fe9f75d042c69e5640f3e9d0638dcf01d6d1773981e8a1e19e887"
-metafile = true
-
-[[files]]
 file = "mods/waila-harvestability.toml"
 hash = "a7f7ef6fe9cb2ab4b9b7702ba966137a530ce8b2f6dbf2f305f4c17ec96f62c4"
 metafile = true
