@@ -594,6 +594,11 @@ hash = "7fbdf32235f071ba1a7ce2b1570b3b5e5330f85167022237e6a142ffd7a69936"
 metafile = true
 
 [[files]]
+file = "mods/plasmaengines.toml"
+hash = "e338a95f571d570f6320f370d694ef2be76bc9cf876869fc043cd05b79884b1e"
+metafile = true
+
+[[files]]
 file = "mods/pneumaticcraft-repressurized.toml"
 hash = "248a04ce2fcb90932ca07a03a4706781866533b68ad7adfd71c98ee597d7690f"
 metafile = true
@@ -795,6 +800,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies-world.toml"
 hash = "542a0b45a86cda397ee7c64cf942b65027b20491c7aeec4baa88fd6aad0f83e4"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.toml"
+hash = "b0f980eb3d5fe9f75d042c69e5640f3e9d0638dcf01d6d1773981e8a1e19e887"
 metafile = true
 
 [[files]]

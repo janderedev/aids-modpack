@@ -1,0 +1,13 @@
+name = "PlasmaEngines"
+filename = "PlasmaEngine-1.3.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3111/438/PlasmaEngine-1.3.8.jar"
+hash-format = "murmur2"
+hash = "1877284780"
+
+[update]
+[update.curseforge]
+file-id = 3111438
+project-id = 353213
