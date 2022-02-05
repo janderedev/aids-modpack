@@ -779,6 +779,11 @@ hash = "4e5491b9a4c78ca16da2a8b2112b51a6c996efdb2556556faff429cb34521ff8"
 metafile = true
 
 [[files]]
+file = "mods/translocators-1-8.toml"
+hash = "7592d76b1dce9c5c3ba321f2ba9f92140aa7f1fd3b1c219e6e08046144ec4471"
+metafile = true
+
+[[files]]
 file = "mods/unidict.toml"
 hash = "c46b388a3bf496faf6b65af275aec44cd3e36ac982da9b10d75e3b342b1b86a6"
 metafile = true
