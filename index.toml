@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/matter-overdrive-community-edition.toml"
-hash = "3ffa677fdf151f425334afcf865e3a536c4689ce285441c2f6d6a30312dcb1b7"
+hash = "f741f0f0c93bf71262d6d97a1defd287ea2e150a5e321035c16acca6242db523"
 metafile = true
 
 [[files]]

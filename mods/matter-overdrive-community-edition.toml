@@ -1,13 +1,13 @@
 name = "Matter Overdrive: Community Edition"
-filename = "MatterOverdrive-1.12.2-0.7.4-universal.jar"
+filename = "MatterOverdrive-1.12.2-0.7.5-universal.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3619/937/MatterOverdrive-1.12.2-0.7.4-universal.jar"
+url = "https://edge.forgecdn.net/files/3632/547/MatterOverdrive-1.12.2-0.7.5-universal.jar"
 hash-format = "murmur2"
-hash = "1378060761"
+hash = "2642378466"
 
 [update]
 [update.curseforge]
-file-id = 3619937
+file-id = 3632547
 project-id = 557428
