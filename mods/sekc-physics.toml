@@ -1,0 +1,13 @@
+name = "SekC Physics"
+filename = "sekcphysics-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2652/753/sekcphysics-0.1.0.jar"
+hash-format = "murmur2"
+hash = "872822670"
+
+[update]
+[update.curseforge]
+file-id = 2652753
+project-id = 309841

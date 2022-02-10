@@ -664,6 +664,11 @@ hash = "e0792276d3873cd05366255ca6f541eaa619eb72ffdac825c5e887d91e43f4db"
 metafile = true
 
 [[files]]
+file = "mods/sekc-physics.toml"
+hash = "985fbc84d9ae6beff4601ffca20194f852fe6661d3bc06b5a3638c05962b4ce5"
+metafile = true
+
+[[files]]
 file = "mods/shadowfacts-forgelin.toml"
 hash = "74ccd63850be4f8763b7963fd045ec7878c3ce729cdd148d40de47131811e36c"
 metafile = true
