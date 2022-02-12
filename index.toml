@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
-hash = "e910ee89906d696eedef7158868c8cdb91849a05a718469ffa320d5fe41dcf96"
+hash = "d7858fb4964b0cc4aaea52142835d2632e320c86449a1afa82ff0285c52eb037"
 preserve = true
 
 [[files]]
