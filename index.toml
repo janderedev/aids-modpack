@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/sekc-physics.toml"
-hash = "985fbc84d9ae6beff4601ffca20194f852fe6661d3bc06b5a3638c05962b4ce5"
+hash = "3698c69089efed4c7f07b37115ce44e56704df41b439db57b21d0b752ce8a562"
 metafile = true
 
 [[files]]

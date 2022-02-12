@@ -1,6 +1,6 @@
 name = "SekC Physics"
 filename = "sekcphysics-0.1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/2652/753/sekcphysics-0.1.0.jar"
