@@ -129,6 +129,11 @@ hash = "49918a4ad46af2f7281939de87db0ecf18eb81b6d6aec93ea6c35255777a1f01"
 metafile = true
 
 [[files]]
+file = "mods/bigger-packets-please.toml"
+hash = "5885b88bac30f59b7bf14a5f40b50c3f20139ddc2e54ecb495a79b0dd7268d98"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.toml"
 hash = "82022f11d4396aaaa00efa688fa3824e57fbeef03924fcb759c75d61cdab7931"
 metafile = true
