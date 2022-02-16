@@ -1,0 +1,13 @@
+name = "Bigger Packets Please"
+filename = "biggerpacketsplz-since1.8-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2655/843/biggerpacketsplz-since1.8-1.2.jar"
+hash-format = "murmur2"
+hash = "194006596"
+
+[update]
+[update.curseforge]
+file-id = 2655843
+project-id = 309110
