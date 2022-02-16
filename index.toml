@@ -69,11 +69,6 @@ hash = "8e2694d568aaf5520b2fb48b3ff8ee715351344478c22d22ef7d93212e2f8b3e"
 metafile = true
 
 [[files]]
-file = "mods/advanced-rocketry.toml"
-hash = "2df85f62000133d35ca6a3b5685cd60d7e54e12b66c7422e70624e150d35a698"
-metafile = true
-
-[[files]]
 file = "mods/ae2-stuff.toml"
 hash = "b06fb4dc1a1a4488b4cbb75bf679aab3c97cce0286ea06bd387be1e369e4b5f9"
 metafile = true
