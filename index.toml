@@ -851,3 +851,8 @@ metafile = true
 file = "mods/yarcf.toml"
 hash = "76cd3981efe2eef102480a291826fc1cfaac9f0b9cef711bba4e52ec4f6a460c"
 metafile = true
+
+[[files]]
+file = "mods/zetta-industries.toml"
+hash = "71326e8fdca288aaa1f5b31affffa5a536e6c14873e035a9d40db0fc69b790e6"
+metafile = true
